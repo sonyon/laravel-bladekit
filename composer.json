@@ -9,7 +9,7 @@
             "email": "twenycode@tweny.co.tz"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "php": "^8.2",
         "laravel/framework": "^8.0|^9.0|^10.0|^11.0|^12.0",
